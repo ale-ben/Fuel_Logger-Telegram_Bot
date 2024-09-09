@@ -203,9 +203,9 @@ dependencies = [
 
 [[package]]
 name = "diesel"
-version = "2.2.3"
+version = "2.2.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "65e13bab2796f412722112327f3e575601a3e9cdcbe426f0d30dbf43f3f5dc71"
+checksum = "158fe8e2e68695bd615d7e4f3227c0727b151330d3e253b525086c348d055d5e"
 dependencies = [
  "bitflags",
  "byteorder",
@@ -335,9 +335,9 @@ dependencies = [
 
 [[package]]
 name = "frankenstein"
-version = "0.32.4"
+version = "0.32.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "eee17b1c8df6ff6559a75c993ae37576fdae2a0117c2e24acd84f9bd007410e1"
+checksum = "a5bd4679ea85999e2b642cc0b909cf84b279f8bc679aea5c570323d8858b80b0"
 dependencies = [
  "mime_guess",
  "multipart",
