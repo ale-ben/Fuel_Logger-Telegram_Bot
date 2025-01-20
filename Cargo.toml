@@ -10,6 +10,6 @@ diesel = { version = "2.2.6", features = ["postgres", "time"] }
 dotenv = "0.15.0"
 dotenvy = "0.15.7"
 frankenstein = "0.38.0"
-log = "0.4.22"
+log = "0.4.25"
 lovely_env_logger = "0.6.1"
 time = { version = "0.3.37", features = ["macros", "parsing", "formatting"] }
