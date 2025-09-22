@@ -12,4 +12,4 @@ dotenvy = "0.15.7"
 frankenstein = "0.44.0"
 log = "0.4.28"
 lovely_env_logger = "0.6.2"
-time = { version = "0.3.43", features = ["macros", "parsing", "formatting"] }
+time = { version = "0.3.44", features = ["macros", "parsing", "formatting"] }
